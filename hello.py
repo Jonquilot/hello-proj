@@ -1,3 +1,3 @@
 def greeting():
-    print("Hello!")
-greeting()
+    print("Good morning!")
+greeting()
